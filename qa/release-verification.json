@@ -1,0 +1,16 @@
+{
+  "result": "PASS",
+  "date": "2026-11-26",
+  "products": 5,
+  "images": 6,
+  "filesVerified": 17,
+  "routes": 15,
+  "checks": [
+    "Release build with TreatWarningsAsErrors",
+    "Browser customer enquiry flow and responsive widths390/360",
+    "HTTP routes, assets, search, validation,CSRF and rate limiting",
+    "Source/release asset and catalogue parity",
+    "Contact consistency and price evidence",
+    "JavaScript and deployment PowerShell syntax"
+  ]
+}

@@ -1,0 +1,16 @@
+Organza Al Ahmar — LOCAL RELEASE VERIFICATION — 2026-11-26
+
+PASS: Release build with TreatWarningsAsErrors
+PASS: Browser customer enquiry flow and responsive widths390/360
+PASS: HTTP routes, assets, search, validation,CSRF and rate limiting
+PASS: Source/release asset and catalogue parity
+PASS: Contact consistency and price evidence
+PASS: JavaScript and deployment PowerShell syntax
+
+15 local page/example routes; 6 source-backed images; 5 catalogue references.
+
+Browser interaction was checked through the Codex in-app browser. Review qa/browser-verification.json for the observed scope. Screenshots were reviewed in the chat; local screenshot files were not exported. Synthetic enquiry details were used; no messages were sent and no orders placed. Expected throttling responses were tested.
+
+This is an independent WebBloom demo for business owner review. Unknown prices are shown as Ask for price. Stock, exact references, authenticity, materials, fulfilment and final prices need business confirmation. Source images/provenance are documented in research/. Public images remain subject to owner rights.
+
+No VPS installation, live IIS execution, DNS registration, HTTPS certificate or production load test is claimed. Deployment PowerShell was syntax-checked only. No payment processing, customer accounts, owner CMS or order database is implemented. Favourites and bags are browser-local; enquiry drafts are not an order submission.
